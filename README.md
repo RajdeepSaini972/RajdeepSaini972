@@ -46,7 +46,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/rajdeepsaini972/rajdeepsaini972/snake-output/snake.svg?v=light" alt="Snake animation" />
+ <img data-importer="snake" src="https://raw.githubusercontent.com/rajdeepsaini972/rajdeepsaini972/snake-output/snake.svg?v=light" alt="Snake animation" />
 
 ###
 
